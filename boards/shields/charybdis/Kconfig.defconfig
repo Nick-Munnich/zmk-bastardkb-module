@@ -12,7 +12,7 @@ if SHIELD_CHARYBDIS_LEFT || SHIELD_CHARYBDIS_RIGHT
 
 config ZMK_SPLIT
     default y
-config ZMK_SPLIT_SERIAL
+config ZMK_SPLIT_WIRED
     default y
 
 endif
